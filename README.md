@@ -16,3 +16,5 @@ Roxy is a real-time, voice-powered AI assistant built using Vapi.ai and a Python
 
 ## Status
 Prototype project for learning and experimentation.
+
+NOTE: the live demo is currently inactive due to expired vapi free credits.
